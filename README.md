@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pompper
-- 👀 I’m interested in 
+- 👀 I’m interested in \n
 💻 - Web developer (2015)
 👟 - B-boy (2005) 
 🎹 - Piano Keyboard (2017)
