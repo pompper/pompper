@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @pompper
-- 👀 I’m interested in 
-💻 Web developer (2015)
-👟 B-boy (2005) 
-🎹 Piano Keyboard (2017)
-✍🏻 Drawing (Manga Style) (2018)
+
+
+
+<h2>👋 Hi, I’m @pompper</h2>
+<p>👀 I’m interested in
+  <ul>
+    <li>💻 Web developer (2015)</li>
+    <li>👟 B-boy (2005) </li>
+    <li>🎹 Piano Keyboard (2017)</li>
+    <li>✍🏻 Drawing (Manga Style) (2018)</li>
+    </ul>
+ </p>
 
 - 🌱 I’m currently learning 
 - 🇬🇧 English
