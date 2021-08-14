@@ -1,6 +1,3 @@
-
-
-
 <h2>👋 Hi, I’m @pompper</h2>
 <p>👀 I’m interested in
   <ul>
@@ -11,16 +8,22 @@
     </ul>
  </p>
 
-- 🌱 I’m currently learning 
-- 🇬🇧 English
-- 📈 Trading 
+<p>🌱 I’m currently learning
+  <ul>
+    <li>🇬🇧 English</li>
+    <li>📈 Trading </li>
+   </ul>
+</p>
 
-- 💞️ I’m looking to collaborate on 
-- 🍺 Beers (2010)
-- 📖 Reading (2010)
-- 🎮 Gaming (1993)
+<p>💞️ I’m looking to collaborate on 
+<ul>
+  <li>🍺 Beers (2010)</li>
+  <li>📖 Reading (2010)</li>
+  <li> 🎮 Gaming (1993)</li>  
+ </ul>
+</p>
 
-- 📫 How to reach me www.77-house.com
+<h3>📫 How to reach me www.77-house.com</h3>
 
 <!---
 pompper/pompper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
