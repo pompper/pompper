@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m @pompper</h2>
 <p>👀 I’m interested in
   <ul>
-    <li>💻 Web developer (2015)</li>
+    <li>💻 Web development (2015)</li>
     <li>👟 B-boy (2005) </li>
     <li>🎹 Piano Keyboard (2017)</li>
     <li>✍🏻 Drawing (Manga Style) (2018)</li>
